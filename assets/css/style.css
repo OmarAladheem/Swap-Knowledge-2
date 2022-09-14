@@ -127,3 +127,12 @@ header a{
     background-color: rgb(87, 73, 28);
     margin: 5px 5px;
 }
+
+/* Footer section */
+/* .footer {
+    display: flex;
+} */
+footer {
+    
+    background-color: red;
+}
