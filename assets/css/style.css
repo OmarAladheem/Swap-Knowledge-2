@@ -129,10 +129,20 @@ header a{
 }
 
 /* Footer section */
-/* .footer {
-    display: flex;
-} */
+
+.social-media {
+    text-align: center;
+}
 footer {
-    
-    background-color: red;
+   height: 50px;
+   background-color: black;
+}
+.social-media > li {
+    display: inline-block;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
 }
