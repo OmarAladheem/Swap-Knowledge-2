@@ -193,23 +193,44 @@ justify-content: center;
     display: flex;
     align-items: center;
     align-content: center;
-    flex-direction: column;
-    width: 80%;
+    margin: 30px auto;
+    width: 90%;
 }
 .form-details {
     flex-direction: column;
     align-items: center;
     align-content: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(205, 185, 185, 0.8);
     border-radius: 25px;
     margin: 5px auto;
     padding: 1.9em;
 }
-.form-details {
-    flex: 1;
-    order: 1;
-    margin-right: 2em;
-}
+
 .form-details input {
     width: 100%;
+    flex-direction: column;
+    border-radius: 5px;
+}
+.form-details input, .form-details button {
+    padding: 1em;
+    margin-bottom: 1em;
+}
+.form-details button {
+    background: tomato;
+    color: £fff;
+    border: 0;
+    padding: 15px 50px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+label {
+    color: rgb(97, 35, 35);
+    text-transform: uppercase;
+    line-height: 10px;
+
+}
+ /* Sing up logo */
+#sign-up-logo {
+    text-transform: uppercase;
+    text-align: center;
 }
