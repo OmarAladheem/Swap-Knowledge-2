@@ -15,8 +15,10 @@ box-sizing: border-box;
 body{
 font-family: lato, sans-serif;
 font-weight: 300;
-max-height: 100%;
+min-height: 100%;
 box-sizing: inherit;
+display: flex;
+flex-direction: column;
 }
 
 /* Add header style */
@@ -142,6 +144,8 @@ text-align: center;
 footer {
 height: 50px;
 background-color: black;
+
+margin-top: auto;
 }
 .social-media > li {
 display: inline-block;
