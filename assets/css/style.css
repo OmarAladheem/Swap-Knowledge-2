@@ -156,3 +156,25 @@ padding: 5%;
 #copyright {
 color: white;
 }
+
+/* Gallery style section */
+
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 5px;
+}
+img:hover {
+    cursor: pointer;
+    opacity: o.5;
+    transition: 0.5s;
+}
+.gallery {
+    display: flex;
+    /* max-width: 1200px; */
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
