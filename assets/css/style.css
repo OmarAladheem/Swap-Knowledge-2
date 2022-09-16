@@ -48,7 +48,9 @@ color: white;
 ul li a:hover {
 color: red;
 transition:.3s ease-in;
-
+}
+.active {
+    color: red;
 }
 
 header a{
@@ -63,6 +65,7 @@ color: white;
 color: red;
 transition:.3s ease-in;
 }
+
 
 /* Add hero image style */
 
