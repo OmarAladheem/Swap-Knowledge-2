@@ -113,6 +113,9 @@ and [W3c](https://jigsaw.w3.org/css-validator/) for CSS.
 
 The site raised minor issue such as misspelling. 
 
+Accessibility 
+![Accessibility](/assets/images/Screenshot%202022-09-16%20at%2021.59.49.png)
+
 # Deployment 
 
 The site was deployed to GitHub pages. 
