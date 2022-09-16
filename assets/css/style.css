@@ -41,7 +41,7 @@ font-size: 20px;
 text-transform: uppercase;
 }
 
-/* Media query for Small screens, laptops and bigger */
+/* Header Media query for Small screens, laptops and bigger */
 
 @media all and (min-width: 769px) {
     header {
@@ -124,7 +124,6 @@ text-transform: uppercase;
 margin-top: 10px;
 }
 
-
 /* About us section */
 
 .about-container {
@@ -150,10 +149,21 @@ flex-wrap: wrap;
 width: 100%;
 text-align: center;
 margin-top: 10px;
+padding: 5px;
 background-color: bisque;
 margin: 5px 5px;
 }
 
+/* Info section Media query for Small screens, laptops and bigger */
+
+@media all and (min-width: 769px) {
+   
+    .info {
+        font-size: 30px;
+        justify-content: center;
+        padding: 20px;
+    }
+}
 /* Times and place meet up */
 
 .time-container {
