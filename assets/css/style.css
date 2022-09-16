@@ -39,6 +39,9 @@ align-items: center;
 font-size: 20px;
 text-transform: uppercase;
 }
+
+/* Media query for Small screens, laptops and bigger */
+
 @media all and (min-width: 769px) {
     .menu {
         display: flex;
