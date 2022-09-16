@@ -4,6 +4,7 @@ Welcome the the Swap knowledge website, it's a fictional website for professiona
 
 [Swap Knowledge Live Website here](https://omaraladheem.github.io/Swap-Knowledge-2/)
 
+![Swap Knowledge responsive testing](/assets/images/Screenshot%202022-09-16%20at%2020.40.19.png)
 
 # Table of contents
 
@@ -13,11 +14,14 @@ Welcome the the Swap knowledge website, it's a fictional website for professiona
 4. The Footer
 5. Gallery page
 6. Sign up form page
-7. Technology used for this website
+7. Languages used for this website
 8. Testing 
 9. Validation
-10. Bugs
-11. Reference
+10. Deployment 
+11. Content
+12. Media
+13. Bugs
+14. Reference
 
 # Overview
 
@@ -37,6 +41,12 @@ The header visible of all pages.
 2. The nav bar has three links, Home, Gallery and Sign up form. 
 3. The header very simple to use and it's responsive so on the mobile and tablet devices the nav bar shown vertical so it will be shown all the time for the user, and it will be shown horizontally over 769px to be visible for the user.
 
+### Header for 769px and bigger. 
+![Header section](/assets/images/Screenshot%202022-09-16%20at%2020.41.37.png)
+
+#### Header for smaller screen mobile and tablet devices 
+![Header section](/assets/images/Screenshot%202022-09-16%20at%2020.54.51.png)
+
 
 # Home page
 
@@ -47,6 +57,7 @@ The header visible of all pages.
 - The third section is informative so it give the purpose of the website and the main idea to meet others.
 
 - The fourth section is the location and time of the meeting the time give in 24 style so it won’t be confusing for the user. 
+![Header section](/assets/images/Screenshot%202022-09-16%20at%2021.00.34.png)
 
 ## The Footer
 
@@ -54,12 +65,18 @@ The footer section visible in all pages.
 
 The footer very simple and straightforward as it contains icons for the social media which can direct the user by clicking on it.
 
+### Footer for 769px and bigger. 
+![Footer section](/assets/images/Screenshot%202022-09-16%20at%2020.41.28.png)
+
+#### Footer for smaller screen mobile and tablet devices 
+![Footer section](/assets/images/Screenshot%202022-09-16%20at%2021.05.33.png)
+
 # Gallery page 
 
 The gallery page contains images for meet up and chat, so it give clear idea about the purpose of the website. 
 
 The images are responsive so in mobile devices will shown in one column and as she screen getting bigger for tablets and desktop screens it will get more columns. 
-
+![Gallery section](/assets/images/Screenshot%202022-09-16%20at%2021.07.25.png)
 
 # Sign up form page
 
@@ -77,8 +94,10 @@ The Form contains of
 - Message area if the user would like to ask or the would like to give more information.
 - Submit buttom to submit the form.
 - Reset buttom to reset the form.
+![Sign up section](/assets/images/Screenshot%202022-09-16%20at%2020.42.08.png)
 
-# Technology used for this website
+
+# Languages used for this website
 
 1. HTML
 2. CSS
@@ -93,6 +112,28 @@ The validation was carried out by [W3c](https://validator.w3.org/) for HTML
 and [W3c](https://jigsaw.w3.org/css-validator/) for CSS.
 
 The site raised minor issue such as misspelling. 
+
+# Deployment 
+
+The site was deployed to GitHub pages. 
+The steps to deploy as follows:
+- In the GtHub repository, navigate to the settings tab.
+- From the the source section for GitHub pages, select the main branch.
+- One the main branch has been selected, the page will automatically refreshed with detailed ribbon display to indicate the successful deployment.
+
+[Swap Knowledge Live Website can be found here](https://omaraladheem.github.io/Swap-Knowledge-2/)
+
+
+
+# Content 
+
+- All content is my own idea 💡 
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons)
+
+
+# Media
+
+the images in the home page and all gallery images were taken from pexels.
 
 
 # Bugs
